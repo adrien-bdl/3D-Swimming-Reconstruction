@@ -1,0 +1,15 @@
+camera0:
+  id: 1 # ../media/GOPR9108.MP4
+  frame_height: 2160
+  frame_width: 2160
+camera1:
+  id: 0 # ../media/GX010273.MP4
+  frame_width: 1920
+  frame_height: 1080
+mono_calibration_frames: 5
+stereo_calibration_frames: 5
+view_resize: 1 # can be anything strictly positive
+checkerboard_box_size_scale: 2.107
+checkerboard_rows: 13
+checkerboard_columns: 18
+cooldown: 50
